@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_tarif;datatype:string,name:daya;datatype:string,name:tarif_perkwh;datatype:real,name:ket;datatype:string" />
+</info>

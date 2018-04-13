@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pelanggan" value="name:no_pelanggan;datatype:string,name:nama_pelanggan;datatype:string,name:alamat_pelanggan;datatype:blob,name:id_tarif;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:no_pelanggan;datatype:string,name:nama_pelanggan;datatype:string,name:alamat_pelanggan;datatype:blob,name:id_tarif;datatype:string" />
+	<infoitem key="UD_tagihan" value="name:id_tagihan;datatype:int,name:tahun_tagih;datatype:year,name:bulan_tagih;datatype:string,name:pemakaian;datatype:int,name:status_tagihan;datatype:string,name:no_pelanggan;datatype:string" />
+	<infoitem key="UD_pembayaran" value="name:id_pembayaran;datatype:int,name:tgl_bayar;datatype:date,name:id_tagihan;datatype:int,name:biaya_denda;datatype:real,name:biaya_admin;datatype:real,name:status_pembayaran;datatype:string" />
+</info>

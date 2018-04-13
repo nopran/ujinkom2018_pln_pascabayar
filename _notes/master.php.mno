@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pelanggan" value="name:no_pelanggan;datatype:string,name:nama_pelanggan;datatype:string,name:alamat_pelanggan;datatype:blob,name:id_tarif;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:no_pelanggan;datatype:string,name:nama_pelanggan;datatype:string,name:alamat_pelanggan;datatype:blob,name:id_tarif;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:no_pelanggan;datatype:string,name:nama_pelanggan;datatype:string,name:alamat_pelanggan;datatype:blob,name:id_tarif;datatype:string" />
+	<infoitem key="UD_pelanga" value="name:no_pelanggan;datatype:string,name:nama_pelanggan;datatype:string,name:alamat_pelanggan;datatype:blob,name:id_tarif;datatype:string" />
+	<infoitem key="UD_tarif" value="name:id_tarif;datatype:string,name:daya;datatype:string,name:tarif_perkwh;datatype:real,name:ket;datatype:string" />
+</info>

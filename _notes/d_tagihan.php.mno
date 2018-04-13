@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tagihan" value="name:id_tagihan;datatype:int,name:tahun_tagih;datatype:year,name:bulan_tagih;datatype:string,name:pemakaian;datatype:int,name:status_tagihan;datatype:string,name:no_pelanggan;datatype:string" />
+</info>

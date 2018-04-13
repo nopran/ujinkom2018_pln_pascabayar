@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tarif" value="name:id_tarif;datatype:string,name:daya;datatype:string,name:tarif_perkwh;datatype:real,name:ket;datatype:string" />
+	<infoitem key="UD_pembayaran" value="name:id_pembayaran;datatype:int,name:tgl_bayar;datatype:date,name:id_tagihan;datatype:int,name:biaya_denda;datatype:real,name:biaya_admin;datatype:real,name:status_pembayaran;datatype:string" />
+</info>
